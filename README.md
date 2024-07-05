@@ -1,2 +1,3 @@
 # simple-interest
-Final Project repo
+
+This repo contains sample code to calculate simple interest, moved from Subversion
